@@ -5,68 +5,68 @@
 #X msg 60 175 disconnect;
 #X obj 49 454 udpsend;
 #X obj 49 129 loadbang;
-#X obj 73 201 vsl 15 128 0 127 0 0 empty empty empty 0 -9 0 10 -262144
--1 -1 0 1;
+#X obj 73 201 vsl 15 128 0 255 0 0 empty empty empty 0 -9 0 10 -262144
+-1 -1 12700 1;
 #X floatatom 73 340 5 0 0 0 - - -;
 #X obj 73 388 packOSC;
-#X obj 147 200 vsl 15 128 0 127 0 0 empty empty empty 0 -9 0 10 -262144
--1 -1 0 1;
+#X obj 147 200 vsl 15 128 0 255 0 0 empty empty empty 0 -9 0 10 -262144
+-1 -1 12700 1;
 #X floatatom 147 339 5 0 0 0 - - -;
 #X obj 147 387 packOSC;
-#X obj 221 200 vsl 15 128 0 127 0 0 empty empty empty 0 -9 0 10 -262144
--1 -1 0 1;
+#X obj 221 200 vsl 15 128 0 255 0 0 empty empty empty 0 -9 0 10 -262144
+-1 -1 12700 1;
 #X floatatom 221 339 5 0 0 0 - - -;
 #X obj 221 387 packOSC;
-#X obj 294 199 vsl 15 128 0 127 0 0 empty empty empty 0 -9 0 10 -262144
--1 -1 0 1;
+#X obj 294 199 vsl 15 128 0 255 0 0 empty empty empty 0 -9 0 10 -262144
+-1 -1 12700 1;
 #X floatatom 294 338 5 0 0 0 - - -;
 #X obj 294 386 packOSC;
-#X obj 368 199 vsl 15 128 0 127 0 0 empty empty empty 0 -9 0 10 -262144
--1 -1 0 1;
+#X obj 368 199 vsl 15 128 0 255 0 0 empty empty empty 0 -9 0 10 -262144
+-1 -1 12700 1;
 #X floatatom 368 338 5 0 0 0 - - -;
 #X obj 368 386 packOSC;
-#X obj 442 198 vsl 15 128 0 127 0 0 empty empty empty 0 -9 0 10 -262144
--1 -1 0 1;
+#X obj 442 198 vsl 15 128 0 255 0 0 empty empty empty 0 -9 0 10 -262144
+-1 -1 12700 1;
 #X floatatom 442 337 5 0 0 0 - - -;
 #X obj 442 385 packOSC;
-#X obj 516 198 vsl 15 128 0 127 0 0 empty empty empty 0 -9 0 10 -262144
--1 -1 0 1;
+#X obj 516 198 vsl 15 128 0 255 0 0 empty empty empty 0 -9 0 10 -262144
+-1 -1 12700 1;
 #X floatatom 516 337 5 0 0 0 - - -;
 #X obj 516 385 packOSC;
-#X obj 589 197 vsl 15 128 0 127 0 0 empty empty empty 0 -9 0 10 -262144
--1 -1 0 1;
+#X obj 589 197 vsl 15 128 0 255 0 0 empty empty empty 0 -9 0 10 -262144
+-1 -1 12700 1;
 #X floatatom 589 336 5 0 0 0 - - -;
 #X obj 589 384 packOSC;
-#X obj 66 516 vsl 15 128 0 127 0 0 empty empty empty 0 -9 0 10 -262144
--1 -1 0 1;
+#X obj 66 516 vsl 15 128 0 255 0 0 empty empty empty 0 -9 0 10 -262144
+-1 -1 12700 1;
 #X floatatom 66 655 5 0 0 0 - - -;
 #X obj 66 703 packOSC;
-#X obj 140 515 vsl 15 128 0 127 0 0 empty empty empty 0 -9 0 10 -262144
--1 -1 0 1;
+#X obj 140 515 vsl 15 128 0 255 0 0 empty empty empty 0 -9 0 10 -262144
+-1 -1 12700 1;
 #X floatatom 140 654 5 0 0 0 - - -;
 #X obj 140 702 packOSC;
-#X obj 214 515 vsl 15 128 0 127 0 0 empty empty empty 0 -9 0 10 -262144
--1 -1 0 1;
+#X obj 214 515 vsl 15 128 0 255 0 0 empty empty empty 0 -9 0 10 -262144
+-1 -1 12700 1;
 #X floatatom 214 654 5 0 0 0 - - -;
 #X obj 214 702 packOSC;
-#X obj 287 514 vsl 15 128 0 127 0 0 empty empty empty 0 -9 0 10 -262144
--1 -1 0 1;
+#X obj 287 514 vsl 15 128 0 255 0 0 empty empty empty 0 -9 0 10 -262144
+-1 -1 12700 1;
 #X floatatom 287 653 5 0 0 0 - - -;
 #X obj 287 701 packOSC;
-#X obj 361 514 vsl 15 128 0 127 0 0 empty empty empty 0 -9 0 10 -262144
--1 -1 0 1;
+#X obj 361 514 vsl 15 128 0 255 0 0 empty empty empty 0 -9 0 10 -262144
+-1 -1 12700 1;
 #X floatatom 361 653 5 0 0 0 - - -;
 #X obj 361 701 packOSC;
-#X obj 435 513 vsl 15 128 0 127 0 0 empty empty empty 0 -9 0 10 -262144
--1 -1 0 1;
+#X obj 435 513 vsl 15 128 0 255 0 0 empty empty empty 0 -9 0 10 -262144
+-1 -1 12700 1;
 #X floatatom 435 652 5 0 0 0 - - -;
 #X obj 435 700 packOSC;
-#X obj 509 513 vsl 15 128 0 127 0 0 empty empty empty 0 -9 0 10 -262144
--1 -1 0 1;
+#X obj 509 513 vsl 15 128 0 255 0 0 empty empty empty 0 -9 0 10 -262144
+-1 -1 12700 1;
 #X floatatom 509 652 5 0 0 0 - - -;
 #X obj 509 700 packOSC;
-#X obj 582 512 vsl 15 128 0 127 0 0 empty empty empty 0 -9 0 10 -262144
--1 -1 0 1;
+#X obj 582 512 vsl 15 128 0 255 0 0 empty empty empty 0 -9 0 10 -262144
+-1 -1 12700 1;
 #X floatatom 582 651 5 0 0 0 - - -;
 #X obj 582 699 packOSC;
 #X msg 367 123 0;
